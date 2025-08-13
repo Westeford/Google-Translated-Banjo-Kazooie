@@ -3,7 +3,6 @@ by Westeford
 
 WHAT THIS IS
 A text + texture chaos remix of Banjo-Kazooie created by iterative Google Translate passes.
-Expect: “SEPARATION PUPPY,” “PRESENT SWITZERLAND,” and general linguistic crimes.
 
 PATCH FORMAT
 - [BPS] created with FLIPS  or  [XDELTA] created with xdelta3
@@ -42,3 +41,4 @@ Apply the patch to your legally obtained PAL copy.
 
 CHANGELOG
 v1: Initial release.
+
