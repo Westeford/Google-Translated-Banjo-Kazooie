@@ -3,6 +3,7 @@ by Westeford
 
 WHAT THIS IS
 A text + texture chaos remix of Banjo-Kazooie created by iterative Google Translate passes.
+It's like Book of Mario but for Banjo Kazooie.
 
 PATCH FORMAT
 - [BPS] created with FLIPS  or  [XDELTA] created with xdelta3
@@ -41,4 +42,5 @@ Apply the patch to your legally obtained PAL copy.
 
 CHANGELOG
 v1: Initial release.
+
 
